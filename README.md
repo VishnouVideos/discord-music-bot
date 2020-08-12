@@ -36,7 +36,7 @@ DISCORD_PREFIX=
 
 ## Author
 
-**Discord Presence** © [iCrawl](https://github.com/iCrawl).  
-Authored and maintained by iCrawl.
+**Discord Presence** © [VishnouVideos](https://github.com/VishnouVideos).  
+Authored by VishnouVideos.
 
-> GitHub [@iCrawl](https://github.com/iCrawl)
+> GitHub [VishnouVideos](https://github.com/VishnouVideos)
